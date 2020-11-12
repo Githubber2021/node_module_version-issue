@@ -2,5 +2,5 @@
 
 ```
 npm install
-npm run ava-ts
+npm run ava
 ```
